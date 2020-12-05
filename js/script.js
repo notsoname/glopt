@@ -60,8 +60,8 @@ $(document).ready(function(){
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
-    prevArrow: '<button type="button" class="slick-prev"><img src="../icons/slider/left-arrow.svg"></button>',
-    nextArrow: '<button type="button" class="slick-next"><img src="../icons/slider/right-arrow.svg"></button>',
+    prevArrow: '<button type="button" class="slick-prev"><img src="icons/slider/left-arrow.svg"></button>',
+    nextArrow: '<button type="button" class="slick-next"><img src="icons/slider/right-arrow.svg"></button>',
     responsive: [
       {
         breakpoint: 993,
